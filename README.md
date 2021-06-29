@@ -3,7 +3,7 @@
 Code for reproducing the Figures in 
 "Aliasing-free Reduced Fielf-of-View Parallel Imaging"
 
-This package relies on the two external packages:
+This package relies on the following external packages:
 
 1. arrayShow - displaying multi-dimensional image array (https://github.com/tsumpf/arrShow)
 2. ESPIRiT   - MATLAB ESPIRiT calibration and utility functions (https://people.eecs.berkeley.edu/~mlustig/software/SPIRiT_v0.3.tar.gz)
