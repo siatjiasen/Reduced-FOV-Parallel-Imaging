@@ -9,15 +9,20 @@ This package relies on the two external packages:
 2. ESPIRiT   - MATLAB ESPIRiT calibration and utility functions (https://people.eecs.berkeley.edu/~mlustig/software/SPIRiT_v0.3.tar.gz)
 3. BART      - C ESPIRiT calibration and Compressed Sensing Parallel Imaging reconstruction (https://github.com/mrirecon/bart)
 
-Figure 1 - 2D imaging with 1D Reduced FOV Parallel Imaging
+Figure 1 - 2D imaging with 1D Reduced FOV Parallel Imaging (MATALB)
 
-Figure 2 - 3D imaging with 2D Reduced FOV Parallel Imaging 
+Figure 2 - 3D imaging with 2D Reduced FOV Parallel Imaging (MATLAB, a 2D slice extracted from 3D kspace)
 
-Figure 3 - 3D imaging with 2D Reduced FOV Compressed Sensing
+Figure 3 - 3D imaging with 2D Reduced FOV Compressed Sensing (MATLAB, a 2D slice extracted from 3D kspace)
 
-Figure 4 - 2D imaging with 1D Reduced FOV Wave Encoding
+Figure 4 - 2D imaging with 1D Reduced FOV Wave Encoding (MATLAB)
 
-Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding
+Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART)  Two 3D data of 2.2 GB and 1.2 GB (reduced FOV 2x decreased the kspace size)
+
+The experimental datasets can be downloaded from , and stored into a folder named as /data (the same level as /utilizes).
+
+
+The implementations of SoftSENSE:
 
 SoftSENSE_Direct      - SoftSENSE reconstruction for regular downsampling by pixel-by-pixel direct inversion
 
