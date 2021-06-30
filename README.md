@@ -17,7 +17,8 @@ Figure 3 - 3D imaging with 2D Reduced FOV Compressed Sensing (MATLAB, a 2D slice
 
 Figure 4 - 2D imaging with 1D Reduced FOV Wave Encoding (MATLAB)
 
-Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART)  Two 3D data of 2.2 GB (PI 2x2) and 1.2 GB (reduced FOV 2x + PI 2x)
+Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART)  
+           Two 3D data of 2.2 GB (PI 2x2) and 1.2 GB (reduced FOV 2x + PI 2x)
 
 The experimental datasets can be downloaded from https://share.weiyun.com/LoDm1LAe . 
 The data should be stored into a folder named as /data at the same level as /utilizes).
@@ -31,7 +32,7 @@ cgSoftSENSE_Cartesian - SoftSENSE reconstruction for 2D/3D Cartesian imaging wit
 
 cgSoftSENSE_Wave      - SoftSENSE reconstruction for 2D/3D Wave imaging with/without reduced FOV imaging
 
-cgSPIRiT_Cartesian    - SPIRiT    reconstruction for 2D/3D Cartesian imaging with/without reduced FOV imaging (SPIRiT image model)
+cgSPIRiT_Cartesian    - SPIRiT    reconstruction for 2D/3D Cartesian imaging with/without reduced FOV imaging
 
 cgSPIRiT_Wave         - SPIRiT    reconstruction for 2D/3D Wave imaging with/without reduced FOV imaging
 
