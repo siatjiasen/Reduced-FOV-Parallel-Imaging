@@ -21,12 +21,12 @@ Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART)
            
 
 Data Description: 
-All experimental datasets (Total 3.4 GB) can be downloaded from https://share.weiyun.com/LoDm1LAe . 
+All experimental datasets (Total 3.4 GB) can be downloaded from (https://pan.baidu.com/s/1kbro9HhZuTGbHlnecq_kHQ using PWD: ruj8) 
 The data should be stored into the folder named as /data.
 
-The experimental dataset for Figure 1,2,3 can be downloaded separately from https://share.weiyun.com/qWy1E9sC (72 MB).
+The experimental dataset for Figure 1,2,3 can be downloaded separately from https://pan.baidu.com/s/1qOgFH1Bkbx_BVT89ndGMRg using PWD: aq8a (72 MB).
 
-The experimental dataset for Figure 4 can be downloaded separately from https://share.weiyun.com/7rC5jbLI (150 MB).
+The experimental dataset for Figure 4 can be downloaded separately from https://pan.baidu.com/s/1iOzdXVpotZweW6dKs6BDNg using PWD: rvt6 (150 MB).
 
 The experimental dataset for Figure 5 including two 3D data of size of 2.2 GB (PI 2x2) and 1.2 GB (reduced FOV 2x + PI 2x) respectively.
 
