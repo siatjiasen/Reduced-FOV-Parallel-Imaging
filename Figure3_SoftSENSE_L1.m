@@ -1,7 +1,7 @@
 %-------------------------------------------------------------------------%
 % Code for reproducing *** Figure 3 *** for 
 %     "Aliasing-free Reduced Field-of-View Parallel Imaging"
-% Note: Run "PI_RedFOV_simulation" first for data preparation 
+% Note: Run "CSPI_RedFOV_simulation" first for data preparation 
 %-------------------------------------------------------------------------%
 clc;clear;close all
 addpath(strcat(pwd,'\data'))
