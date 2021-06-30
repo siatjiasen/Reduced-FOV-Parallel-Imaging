@@ -1,5 +1,5 @@
 %-------------------------------------------------------------------------%
-% Code for reproducing *** Figure 2 *** for 
+% Code for reproducing *** Figure 1 *** for 
 %     "Aliasing-free Reduced Field-of-View Parallel Imaging"
 % Note: Run "PI_RedFOV_simulation" first for data preparation 
 %-------------------------------------------------------------------------%
