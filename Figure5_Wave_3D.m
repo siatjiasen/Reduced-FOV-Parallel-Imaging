@@ -20,7 +20,7 @@ PsfYZ_fullFOV = wavepsf_calibration(Data_Py,Data_WavePy,Data_Pz,Data_WavePz);
 ACS_fullFOV = squeeze(Data_ACS(:,:,:,:,1));
 
 %----  Reduced FOV imaging data
-RAW_redFOV = readcfl('./data/rawdata_redFOV_2x2');
+RAW_redFOV = readcfl('./data/rawdata_redFOV');
 
 
 acsdata = ACS_fullFOV;
