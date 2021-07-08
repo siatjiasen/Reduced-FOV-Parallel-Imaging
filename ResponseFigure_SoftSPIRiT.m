@@ -4,8 +4,8 @@
 % Note: Run "CSPI_RedFOV_simulation" first for data preparation 
 %-------------------------------------------------------------------------%
 clc;clear;close all
-addpath(strcat(pwd,'\data'))
-addpath(genpath(strcat(pwd,'\utilities')))
+addpath(strcat(pwd,'/data'))
+addpath(genpath(strcat(pwd,'/utilities')))
 
 % =========================================================================
 % Data prepation
