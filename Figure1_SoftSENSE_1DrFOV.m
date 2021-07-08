@@ -5,8 +5,8 @@
 %-------------------------------------------------------------------------%
 clc;clear;close all
 
-addpath(strcat(pwd,'\data'))
-addpath(genpath(strcat(pwd,'\utilities')))
+addpath(strcat(pwd,'/data'))
+addpath(genpath(strcat(pwd,'/utilities')))
 
 using_bart_csm = 0;   % 0 - using ESPIRiT implemented in MATLAB, slow; 
 
