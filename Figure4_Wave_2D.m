@@ -5,8 +5,8 @@
 %-------------------------------------------------------------------------%
 clc;clear;close all
 
-addpath(strcat(pwd,'\data'))
-addpath(genpath(strcat(pwd,'\utilities')))
+addpath(strcat(pwd,'/data'))
+addpath(genpath(strcat(pwd,'/utilities')))
 
 do_waverecon_using_softsense = 1;  % 0-SPIRiT model, which needs 2-3x more computational time
 
