@@ -17,7 +17,9 @@ Figure 3 - 3D imaging with 2D Reduced FOV Compressed Sensing (MATLAB, a 2D slice
 
 Figure 4 - 2D imaging with 1D Reduced FOV Wave Encoding (MATLAB)
 
-Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART)  
+Figure 5 - 3D imaging with 2D Reduced FOV Wave Encoding (BART) 
+
+Response Figure - Soft-SPIRiT (two steps: applying Soft-SENSE after SPIRiT reconstruction)
            
 
 Data Description: 
