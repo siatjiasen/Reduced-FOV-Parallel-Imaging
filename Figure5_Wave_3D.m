@@ -3,8 +3,8 @@
 %     "Aliasing-free Reduced Field-of-View Parallel Imaging"
 %-------------------------------------------------------------------------%
 clc;clear;close all
-addpath(strcat(pwd,'\data'))
-addpath(genpath(strcat(pwd,'\utilities')))
+addpath(strcat(pwd,'/data'))
+addpath(genpath(strcat(pwd,'/utilities')))
 
 iscoil_compression = 1;
 isremove_roos_acs = 1;
