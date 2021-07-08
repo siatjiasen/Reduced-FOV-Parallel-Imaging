@@ -110,9 +110,8 @@ kSize = [5,5];  eigThresh_1 = 0.02;  eigThresh_2 = 0.95;
 imSize = [Ny_fFOV,Nz_fFOV];
 ecalib_map = espirit_calib2d(kCalib_fullFOV_4c,imSize,kSize,eigThresh_1,eigThresh_2,1);
 
- load('./data/mask_roi.mat');
- ecalib_map = (ecalib_map) .* repmat(reshape(mask_roi,[Ny_fFOV,Nz_fFOV]),[1,1,Nc]);
-
+load('./data/mask_roi.mat');
+ecalib_map = squeeze(ecalib_map) .* repmat(mask_roi,[1,1,Nc]);
 
 % Mutiple-set CSMs used by Soft-SENSE
 % nominal reduced FOV acceleration factors
@@ -142,6 +141,7 @@ Img0 = zeros(Ny_fFOV,Nz_fFOV);
     SoftSENSE_direct(Data_redFOV,CSM_4sets,Img0,1,1);
 
 as(Img_red2full_twosteps)
+as(Gmap_red2full)
 
 
 % im_ref1 = sum(conj(squeeze(ecalib_map_fullFOV)).*ifft2c(Data_full),3);
