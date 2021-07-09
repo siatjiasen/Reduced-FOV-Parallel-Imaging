@@ -23,6 +23,7 @@ Response Figure - Soft-SPIRiT (two steps: applying Soft-SENSE after SPIRiT recon
            
 
 Data Description: 
+
 All experimental datasets (Total 3.4 GB) can be downloaded from (https://pan.baidu.com/s/1kbro9HhZuTGbHlnecq_kHQ using PWD: ruj8) 
 The data should be stored into the folder named as /data.
 
